@@ -1,5 +1,7 @@
 ## Hello GitHub Fans 👋
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/qi-Nian-Jin-Xi/qi-Nian-Jin-Xi/main/pusheencode.gif" />
+
 ### I'm JiangDong Huo
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
